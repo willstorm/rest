@@ -1,0 +1,3 @@
+news_category_list:
+  path: /news/category/list
+  defaults: { _controller: 'News\Controller\CategoryController::listAction' }

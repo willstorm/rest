@@ -1,0 +1,3 @@
+blog_category_list:
+  path: /blog/category/list
+  defaults: { _controller: 'Blog\Controller\CategoryController::listAction' }
